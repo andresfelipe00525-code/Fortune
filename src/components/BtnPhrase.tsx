@@ -1,5 +1,5 @@
 import type { Phrase as PhraseType } from '../App';
-import getRandomNumber from '../utils/getrandomNumber';
+import getRandomNumber from '../utils/getRandomNumber';
 import quotes from '../data/phrases.json';
 import photos from '../data/photos.json';
 interface BtnPhraseProps {

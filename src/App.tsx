@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import getRandomNumber from './utils/getrandomNumber';
+import getRandomNumber from './utils/getRandomNumber';
 import quotes from './data/phrases.json';
 import Phrase from './components/Phrase';
 import BtnPhrase from './components/BtnPhrase';
