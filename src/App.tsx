@@ -24,7 +24,7 @@ function App() {
 	);
 
 	const objStyles = {
-		backgroundImage: `url(/img/Fondo${bgSelected}.png)`,
+		backgroundImage: `url(/img/fondo${bgSelected}.png)`,
 	};
 
 	return (
